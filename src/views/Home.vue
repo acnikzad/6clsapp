@@ -63,7 +63,7 @@
 
 <style>
 h1 {text-align: center;}
-p {text-align: center;}
+p {text-align: left;}
 </style>
 <script>
 

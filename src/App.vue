@@ -51,18 +51,21 @@
     </div>
 <!-- Menu -->
       <nav id="menu">
-        <h2>Menu</h2>
-        <ul>
-          <li><a href="http://localhost:8080">Home</a></li>
-          <li><a href="http://localhost:8080/Concrete">Concrete</a></li>
-          <li><a href="generic.html">Landscape</a></li>
-          <li><a href="http://localhost:8080/Gallery">Gallery</a></li>
-          <li><a href="elements.html">About Us</a></li>
-        </ul>
+        <div class="inner">
+          <h2>Menu</h2>
+          <ul>
+            <li><a href="http://localhost:8080">Home</a></li>
+            <li><a href="http://localhost:8080/Concrete">Concrete</a></li>
+            <li><a href="http://localhost:8080/Landscape">Landscape</a></li>
+            <li><a href="http://localhost:8080/Gallery">Gallery</a></li>
+            <li><a href="http://localhost:8080/About">About Us</a></li>
+          </ul>
+        </div>
       </nav>
   </div>
 </template>
 
 <style>
-
+h2 {text-align: left;}
+p {text-align: left;}
 </style>
