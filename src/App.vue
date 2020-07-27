@@ -1,32 +1,68 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+    <div id="wrapper">
+      <header id="header">
+        <div class="inner">
+  <!-- Logo -->
+          <a href="index.html" class="logo">
+            <span class="symbol"><img src="../public/images/cls/CLS Logo Only Graphic.jpg" alt=""/></span>
+            <span class="title">Concrete Landscape Services LIC.#932604</span>
+          </a>
+  <!-- Nav -->
+            <nav>
+              <ul>
+                <li><a href="#menu">Menu</a></li>
+              </ul>
+            </nav>
+              </div>
+          </header>
+
+      <router-view/>
+
+      <!-- Footer -->
+      <footer id="footer">
+        <div class="inner">
+<!-- Section -->
+          <section class="main special">
+            <h2>Get in touch</h2>
+            <p>Contact us for a consultation!</p>
+            <ul class="contact-icons">
+              <li>
+                <span class="icon major alt fa-envelope"></span>
+                <p><a href="#">RonDavis@concretelandscapeservices.com</a></p>
+              </li>
+              <li>
+                <span class="icon major alt fa-map"></span>
+                <p>4862 E. 2nd Street<br />
+                Benicia, CA 94510</p>
+              </li>
+              <li>
+                <span class="icon solid major alt fa-mobile-alt"></span>
+                <p><a href="#">916-688-1550</a></p>
+              </li>
+            </ul>
+          </section>
+          <ul class="copyright">
+            <li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+          </ul>
+        </div>
+      </footer>
+
     </div>
-    <router-view/>
+<!-- Menu -->
+      <nav id="menu">
+        <h2>Menu</h2>
+        <ul>
+          <li><a href="http://localhost:8080">Home</a></li>
+          <li><a href="http://localhost:8080/Concrete">Concrete</a></li>
+          <li><a href="generic.html">Landscape</a></li>
+          <li><a href="http://localhost:8080/Gallery">Gallery</a></li>
+          <li><a href="elements.html">About Us</a></li>
+        </ul>
+      </nav>
   </div>
 </template>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
 
-#nav {
-  padding: 30px;
-}
-
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #42b983;
-}
 </style>
