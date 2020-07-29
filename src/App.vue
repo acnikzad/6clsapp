@@ -20,33 +20,31 @@
       <router-view/>
 
       <!-- Footer -->
-      <footer id="footer">
-        <div class="inner">
 <!-- Section -->
-          <section class="main special">
-            <h2>Get in touch</h2>
-            <p>Contact us for a consultation!</p>
-            <ul class="contact-icons">
-              <li>
-                <span class="icon major alt fa-envelope"></span>
-                <p><a href="#">RonDavis@concretelandscapeservices.com</a></p>
-              </li>
-              <li>
-                <span class="icon major alt fa-map"></span>
-                <p>4862 E. 2nd Street<br />
-                Benicia, CA 94510</p>
-              </li>
-              <li>
-                <span class="icon solid major alt fa-mobile-alt"></span>
-                <p><a href="#">916-688-1550</a></p>
-              </li>
-            </ul>
+        <container>
+          <section class="inner">
+            <h2 style="text-align:center;">Get in touch</h2>
+            <h4 style="text-align:center;">Contact us for a consultation!</h4>
+            <br>
+            <center>
+              <ul class="contact-icons">
+                <li>
+                  <span class="icon major alt fa-envelope"></span>
+                  <p style="text-align:center;"><a href="">RonDavis@concretelandscapeservices.com</a></p>
+                </li>
+                <li>
+                  <span class="icon major alt fa-map"></span>
+                  <p style="text-align:center;">4862 E. 2nd Street<br />
+                  Benicia, CA 94510</p>
+                </li>
+                <li>
+                  <span class="icon solid major alt fa-mobile-alt"></span>
+                  <p style="text-align:center;"><a href="#">(916) 688-1550</a></p>
+                </li>
+              </ul>
+            </center>
           </section>
-          <ul class="copyright">
-            <li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-          </ul>
-        </div>
-      </footer>
+        </container>
 
     </div>
 <!-- Menu -->
@@ -66,6 +64,6 @@
 </template>
 
 <style>
-h2 {text-align: left;}
-p {text-align: left;}
+h2 {text-align: center;}
+p {text-align: center;}
 </style>

@@ -32,11 +32,14 @@
               </div>
             </div>
             <hr />
-
           </section>
           </div>
         </div>
 </template>;
+<style>
+h1 {text-align: left;}
+p {text-align: left;}
+</style>
 
 <script>
 

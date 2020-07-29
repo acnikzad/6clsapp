@@ -7,16 +7,17 @@
         <!-- Section -->
           <section class="main">
             <header class="invert accent2">
-              <h1>Our Concrete Services</h1>
+              <h1>Our Landscape Services</h1>
             </header>
             <div class="row gtr-200">
               <div class="col-8 col-12-medium">
                 <span class="image fit"><img src="images/cls/20200529_153815.jpg" alt="" /></span>
               </div>
               <div class="col-4 col-12-medium">
-                <h3>Concrete</h3>
-                  <p><i>Do you need to replace or repair concrete? We can help!</i></p>
-                  <p>We can help you achieve the look you want, going that extra mile to ensure that you are satisfied. Whether it’s adding or expanding a driveway, walkway, sidewalk, steps, patio, footings, mow strip, pads or epoxy flooring, we are your local concrete flat work specialist.</p>
+                <h3>Landscape</h3>
+                  <p><i>Do you need to overhaul your yard?
+                  <br>We can help!</i><p>
+                  <p>It could be a make over or a new installation, sod or rock lawn. If your need requires irrigation, drainage work or lawn maintenance services, give us a call. Our goal is to please you.</p>
               </div>
             </div>
             <hr />
