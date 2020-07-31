@@ -47,14 +47,14 @@
                 </a>
               </article>
             </section>
-            <section>
-                  <h3></h3>
-                  <div class="box alt">
-                    <div class="row gtr-uniform">
-                      <div class="col-12"><span class="image fit"><img src="images/cls/20191227_113009.jpg" alt="" /></span></div>
-                    </div>
-                  </div>
-                </section>
+<!--             <section>
+              <h3></h3>
+              <div class="box alt">
+                <div class="row gtr-uniform">
+                  <div class="col-12"><span class="image fit"><img src="images/cls/20191227_113009.jpg" alt="" /></span></div>
+                </div>
+              </div>
+            </section> -->
 
 
           </div>

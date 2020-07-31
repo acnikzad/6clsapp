@@ -24,12 +24,12 @@
 
             <div class="row gtr-200">
               <div class="col-4 col-12-medium">
-                <h3>Concrete</h3>
+                <h3>lawns</h3>
                   <p><i>Upgrade!</i></p>
                   <p>Upgrade your home with new or extended concrete installations. We can bring your ideas to life. Concrete Landscape Services specializes in Walkways, Driveways, Patios, Pool Decks, RV Pads, Steps, Footings and Mow Strips. Installing concrete for YOU, the way you want it, that’s what we do BEST!!!</p>
               </div>
               <div class="col-8 col-12-medium">
-                <span class="image fit"><img src="images/cls/Broom stain driveway.jpg" alt="" /></span>
+                <span class="image fit"><img src="images/cls/20181213_160357.jpg" alt="" /></span>
               </div>
             </div>
             <hr />

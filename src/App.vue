@@ -19,8 +19,7 @@
 
       <router-view/>
 
-      <!-- Footer -->
-<!-- Section -->
+<!-- Footer -->
         <container>
           <section class="inner">
             <h2 style="text-align:center;">Get in touch</h2>
@@ -34,8 +33,8 @@
                 </li>
                 <li>
                   <span class="icon major alt fa-map"></span>
-                  <p style="text-align:center;">4862 E. 2nd Street<br />
-                  Benicia, CA 94510</p>
+                  <p style="text-align:center;">11151 Trade Center, Suite 204<br />
+                  Rancho Cordova, CA 95670</p>
                 </li>
                 <li>
                   <span class="icon solid major alt fa-mobile-alt"></span>
@@ -46,8 +45,7 @@
           </section>
         </container>
         <br>
-
-    </div>
+      </div>
 <!-- Menu -->
       <nav id="menu">
         <div class="inner">

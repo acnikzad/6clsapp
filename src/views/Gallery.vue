@@ -23,7 +23,7 @@
                 <a href="generic.html">
                   <h2></h2>
                   <div class="content">
-                    <p></p>
+                    <p>Walkways</p>
                   </div>
                 </a>
               </article>
@@ -34,13 +34,46 @@
                 <a href="generic.html">
                   <h2></h2>
                   <div class="content">
-                    <p></p>
+                    <p>Pool Decks</p>
                   </div>
                 </a>
               </article>
               <article class="style7">
                 <span class="image">
                   <img src="images/cls/20181213_145748.jpg" alt="" />
+                </span>
+                <a href="generic.html">
+                  <h2></h2>
+                  <div class="content">
+                    <p>Lawncare</p>
+                  </div>
+                </a>
+              </article>
+              <article class="">
+                <span class="image">
+                  <img src="images/cls/Driveway, rv, entry.jpg" alt="" />
+                </span>
+                <a href="generic.html">
+                  <h2></h2>
+                  <div class="content">
+                    <p></p>
+                  </div>
+                </a>
+              </article>
+              <article class="style7">
+                <span class="image">
+                  <img src="images/cls/20181109_142646.jpg" alt="" />
+                </span>
+                <a href="generic.html">
+                  <h2></h2>
+                  <div class="content">
+                    <p></p>
+                  </div>
+                </a>
+              </article>
+              <article class="style7">
+                <span class="image">
+                  <img src="images/cls/20181206_144632.jpg" alt="" />
                 </span>
                 <a href="generic.html">
                   <h2></h2>
