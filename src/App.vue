@@ -18,7 +18,6 @@
           </header>
 
       <router-view/>
-
 <!-- Footer -->
         <container>
           <section class="inner">
