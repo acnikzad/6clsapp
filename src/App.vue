@@ -4,7 +4,7 @@
       <header id="header">
         <div class="inner">
   <!-- Logo -->
-          <a href="index.html" class="logo">
+          <a href="/" class="logo">
             <span class="symbol"><img src="../public/images/cls/CLS Logo Only Graphic.jpg" alt=""/></span>
             <span class="title">Concrete Landscape Services LIC.#932604</span>
           </a>
