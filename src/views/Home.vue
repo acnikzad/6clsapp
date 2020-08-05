@@ -17,7 +17,7 @@
                 <span class="image">
                   <img src="images/cls/20181009_124907.jpg" alt="" />
                 </span>
-                <a href="https://silly-swirles-327661.netlify.app//Concrete">
+                <a href="/Concrete">
                   <h2>Concrete</h2>
                   <div class="content">
                     <p></p>
