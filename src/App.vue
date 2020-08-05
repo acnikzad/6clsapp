@@ -50,11 +50,11 @@
         <div class="inner">
           <h2>Menu</h2>
           <ul>
-            <li><a href="http://localhost:8080">Home</a></li>
-            <li><a href="http://localhost:8080/Concrete">Concrete</a></li>
-            <li><a href="http://localhost:8080/Landscape">Landscape</a></li>
-            <li><a href="http://localhost:8080/Gallery">Gallery</a></li>
-            <li><a href="http://localhost:8080/About">About Us</a></li>
+            <li><a href="/">Home</a></li>
+            <li><a href="/Concrete">Concrete</a></li>
+            <li><a href="/Landscape">Landscape</a></li>
+            <li><a href="/Gallery">Gallery</a></li>
+            <li><a href="/About">About Us</a></li>
           </ul>
         </div>
       </nav>
