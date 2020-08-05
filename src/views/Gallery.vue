@@ -13,7 +13,7 @@
             <span class="image">
               <img src="images/cls/20181009_124907.jpg" alt="" />
             </span>
-            <a href="generic.html">
+            <a href="">
               <h2></h2>
               <div class="content">
                 <p>Walkways</p>
@@ -24,7 +24,7 @@
             <span class="image">
               <img src="images/cls/Pool deck 2.jpg" alt="" />
             </span>
-            <a href="generic.html">
+            <a href="">
               <h2></h2>
               <div class="content">
                 <p>Pool Decks</p>
@@ -35,7 +35,7 @@
             <span class="image">
               <img src="images/cls/20181213_145748.jpg" alt="" />
             </span>
-            <a href="generic.html">
+            <a href="">
               <h2></h2>
               <div class="content">
                 <p>Lawncare</p>
@@ -46,7 +46,7 @@
             <span class="image">
               <img src="images/cls/Driveway, rv, entry.jpg" alt="" />
             </span>
-            <a href="generic.html">
+            <a href="">
               <h2></h2>
               <div class="content">
                 <p></p>
@@ -57,7 +57,7 @@
             <span class="image">
               <img src="images/cls/20181109_142646.jpg" alt="" />
             </span>
-            <a href="generic.html">
+            <a href="">
               <h2></h2>
               <div class="content">
                 <p></p>
@@ -68,7 +68,7 @@
             <span class="image">
               <img src="images/cls/20181206_144632.jpg" alt="" />
             </span>
-            <a href="generic.html">
+            <a href="">
               <h2></h2>
               <div class="content">
                 <p></p>
@@ -79,7 +79,7 @@
             <span class="image">
               <img src="images/cls/20200331_095356.jpg" alt="" />
             </span>
-            <a href="generic.html">
+            <a href="">
               <h2></h2>
               <div class="content">
                 <p></p>
@@ -90,7 +90,7 @@
             <span class="image">
               <img src="images/cls/20191227_113009.jpg" alt="" />
             </span>
-            <a href="generic.html">
+            <a href="">
               <h2></h2>
               <div class="content">
                 <p></p>
@@ -101,7 +101,7 @@
             <span class="image">
               <img src="images/cls/20191227_112803.jpg" alt="" />
             </span>
-            <a href="generic.html">
+            <a href="">
               <h2></h2>
               <div class="content">
                 <p></p>
@@ -112,7 +112,7 @@
             <span class="image">
               <img src="images/cls/20200406_102511.jpg" alt="" />
             </span>
-            <a href="generic.html">
+            <a href="">
               <h2></h2>
               <div class="content">
                 <p></p>
@@ -123,7 +123,7 @@
             <span class="image">
               <img src="images/cls/20200529_153815.jpg" alt="" />
             </span>
-            <a href="generic.html">
+            <a href="">
               <h2></h2>
               <div class="content">
                 <p></p>
@@ -134,7 +134,7 @@
             <span class="image">
               <img src="images/cls/20190802_161227.jpg" alt=""/>
             </span>
-            <a href="generic.html">
+            <a href="">
               <h2></h2>
               <div class="content">
                 <p></p>
@@ -142,8 +142,22 @@
             </a>
           </article>
         </section>
+        <br>
+        <center>
+          <ul class="actions">
+            <li><a href="https://www.flickr.com/gp/93812130@N03/ab600k" class="button">View More Photos</a></li>
+          </ul>
+        </center>
       <br>
       </div>
     </body>
   </html>
 </template>
+
+<style>
+.button {
+
+  text-align: center;
+}
+
+</style>
