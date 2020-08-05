@@ -17,7 +17,7 @@
                 <span class="image">
                   <img src="images/cls/20181009_124907.jpg" alt="" />
                 </span>
-                <a href="/concrete">
+                <a href="concrete.html">
                   <h2>Concrete</h2>
                   <div class="content">
                     <p></p>
@@ -28,7 +28,7 @@
                 <span class="image">
                   <img src="images/cls/20181213_160357.jpg" alt="" />
                 </span>
-                <a href="landscape">
+                <a href="landscape.html">
                   <h2>Landscape</h2>
                   <div class="content">
                     <p></p>
