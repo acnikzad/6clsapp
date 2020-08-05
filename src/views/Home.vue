@@ -19,7 +19,7 @@
           <a href="concrete">
             <h2>Concrete</h2>
             <div class="content">
-              <ul>
+              <ul style="text-align:left;">
                 <li>Retaining Walls</li>
                 <li>Patios</li>
                 <li>Walkways</li>
@@ -38,7 +38,7 @@
           <a href="landscape">
             <h2>Landscape & Irrigation</h2>
             <div class="content">
-              <ul>
+              <ul style="text-align:left;">
                 <li>Backyards</li>
                 <li>Frontyards</li>
                 <li>Commercial</li>
@@ -75,7 +75,6 @@
 
 
 <style>
-li {text-align: left;}
 h1 {text-align: center;}
 p {text-align: left;}
 </style>
