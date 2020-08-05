@@ -33,12 +33,12 @@ const routes = [
     component: Gallery
   },
   {
-    path: '/concrete.html',
+    path: '/concrete',
     name: 'Concrete',
     component: Concrete
   },
   {
-    path: '/landscape.html',
+    path: '/landscape',
     name: 'Landscape',
     component: Landscape
   },
