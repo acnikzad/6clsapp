@@ -16,7 +16,7 @@
           <span class="image">
             <img src="images/cls/20181009_124907.jpg" alt="" />
           </span>
-          <a href="concrete.html">
+          <a href="concrete">
             <h2>Concrete</h2>
             <div class="content">
               <p></p>
@@ -27,7 +27,7 @@
           <span class="image">
             <img src="images/cls/20181213_160357.jpg" alt="" />
           </span>
-          <a href="landscape.html">
+          <a href="landscape">
             <h2>Landscape</h2>
             <div class="content">
               <p></p>
@@ -38,7 +38,7 @@
           <span class="image">
             <img src="images/cls/20181206_144632.jpg" alt="" />
           </span>
-          <a href="generic.html">
+          <a href="/">
             <h2>Repair & Restoration</h2>
             <div class="content">
               <p></p>
