@@ -28,7 +28,7 @@
                 <span class="image">
                   <img src="images/cls/20181213_160357.jpg" alt="" />
                 </span>
-                <a href="http://localhost:8080/Landscape">
+                <a href="/Landscape">
                   <h2>Landscape</h2>
                   <div class="content">
                     <p></p>
