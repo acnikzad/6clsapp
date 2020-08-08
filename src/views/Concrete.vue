@@ -35,8 +35,8 @@
         </div>
         <div class="col-4 col-12-medium">
           <h3>Walkways</h3>
-            <p><i>Achieve that look!</i></p>
-            <p>Upgrade your home with new or extended concrete installations. We can bring your ideas to life. Concrete Landscape Services specializes in Walkways, Driveways, Patios, Pool Decks, RV Pads, Steps, Footings and Mow Strips. Installing concrete for YOU, the way you want it, that’s what we do BEST!!!</p>
+          <p><i>Achieve that look!</i></p>
+          <p>Upgrade your home with new or extended concrete installations. We can bring your ideas to life. Concrete Landscape Services specializes in Walkways, Driveways, Patios, Pool Decks, RV Pads, Steps, Footings and Mow Strips. Installing concrete for YOU, the way you want it, that’s what we do BEST!!!</p>
         </div>
       </div>
     </section>
