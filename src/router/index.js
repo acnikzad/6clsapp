@@ -5,6 +5,7 @@ import Services from '../views/Services.vue';
 import Gallery from '../views/Gallery.vue';
 import Concrete from '../views/Concrete.vue';
 import Landscape from '../views/Landscape.vue';
+import Repair from '../views/Repair.vue';
 
 Vue.use(VueRouter);
 
@@ -41,6 +42,11 @@ const routes = [
     path: '/landscape',
     name: 'Landscape',
     component: Landscape
+  },
+  {
+    path: '/repair',
+    name: 'Repair',
+    component: Repair
   },
 ];
 
