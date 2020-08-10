@@ -53,6 +53,7 @@
             <li><a href="/">Home</a></li>
             <li><a href="/Concrete">Concrete</a></li>
             <li><a href="/Landscape">Landscape</a></li>
+            <li><a href="/Repair">Repairs & Restoration</a></li>
             <li><a href="/Gallery">Gallery</a></li>
             <li><a href="/About">About Us</a></li>
           </ul>
