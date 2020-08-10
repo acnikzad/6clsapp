@@ -53,7 +53,7 @@
           <span class="image">
             <img src="images/cls/20181206_144632.jpg" alt="" />
           </span>
-          <a href="/">
+          <a href="/repair">
             <h2>Repair & Restoration</h2>
             <div class="content">
               <p></p>
