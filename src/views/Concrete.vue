@@ -9,7 +9,7 @@
       </header>
       <div class="row gtr-200">
         <div class="col-8 col-12-medium">
-          <span class="image fit"><img src="images/cls/20200401_173206.jpg" alt="" /></span>
+          <span class="image fit"><img src="images/cls/20181009_124907.jpg" alt="" /></span>
         </div>
         <div class="col-4 col-12-medium">
           <h3>Patios</h3>
@@ -17,6 +17,41 @@
             <p>We can help you achieve the look you want, going that extra mile to ensure that you are satisfied. Whether it’s adding or expanding a driveway, walkway, sidewalk, steps, patio, footings, mow strip, pads or epoxy flooring, we are your local concrete flat work specialist.</p>
         </div>
       </div>
+      <section class="tiles">
+        <article class="">
+          <span class="image">
+            <img src="images/cls/49996953262_fa8b534731_o.jpg" alt="" />
+          </span>
+          <a href="">
+            <h2></h2>
+            <div class="content">
+              <p>Walkways</p>
+            </div>
+          </a>
+        </article>
+        <article class="style7">
+          <span class="image">
+            <img src="images/cls/49706829403_f12b06e89c_o.jpg" alt="" />
+          </span>
+          <a href="">
+            <h2></h2>
+            <div class="content">
+              <p>Low Maintenance Landscape</p>
+            </div>
+          </a>
+        </article>
+        <article class="style7">
+          <span class="image">
+            <img src="images/cls/49657107738_473a1b8ba9_o.jpg" alt="" />
+          </span>
+          <a href="">
+            <h2></h2>
+            <div class="content">
+              <p>Retaining Walls</p>
+            </div>
+          </a>
+        </article>
+      </section>
       <hr />
       <div class="row gtr-200">
         <div class="col-4 col-12-medium">
