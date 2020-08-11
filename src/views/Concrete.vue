@@ -20,34 +20,34 @@
       <section class="tiles">
         <article class="">
           <span class="image">
-            <img src="images/cls/49996953262_fa8b534731_o.jpg" alt="" />
+            <img src="images/cls/20191107_143929.jpg" alt="" />
           </span>
           <a href="">
             <h2></h2>
             <div class="content">
-              <p>Walkways</p>
+              <p></p>
             </div>
           </a>
         </article>
         <article class="style7">
           <span class="image">
-            <img src="images/cls/49706829403_f12b06e89c_o.jpg" alt="" />
+            <img src="images/cls/49971841547_2d24757d27_o.jpg" alt="" />
           </span>
           <a href="">
             <h2></h2>
             <div class="content">
-              <p>Low Maintenance Landscape</p>
+              <p></p>
             </div>
           </a>
         </article>
         <article class="style7">
           <span class="image">
-            <img src="images/cls/49657107738_473a1b8ba9_o.jpg" alt="" />
+            <img src="images/cls/20200401_173206.jpg" alt="" />
           </span>
           <a href="">
             <h2></h2>
             <div class="content">
-              <p>Retaining Walls</p>
+              <p></p>
             </div>
           </a>
         </article>
@@ -63,6 +63,41 @@
           <span class="image fit"><img src="images/cls/Broom stain driveway.jpg" alt="" /></span>
         </div>
       </div>
+      <section class="tiles">
+        <article class="">
+          <span class="image">
+            <img src="images/cls/Driveway rv pad.jpg" alt="" />
+          </span>
+          <a href="">
+            <h2></h2>
+            <div class="content">
+              <p></p>
+            </div>
+          </a>
+        </article>
+        <article class="style7">
+          <span class="image">
+            <img src="images/cls/Driveway, rv pad 2.jpg" alt="" />
+          </span>
+          <a href="">
+            <h2></h2>
+            <div class="content">
+              <p></p>
+            </div>
+          </a>
+        </article>
+        <article class="style7">
+          <span class="image">
+            <img src="images/cls/Driveway, rv, entry.jpg" alt="" />
+          </span>
+          <a href="">
+            <h2></h2>
+            <div class="content">
+              <p></p>
+            </div>
+          </a>
+        </article>
+      </section>
       <hr>
       <div class="row gtr-200">
         <div class="col-8 col-12-medium">
