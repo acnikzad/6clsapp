@@ -110,7 +110,42 @@
         </div>
       </div>
     </section>
-    <hr>
+    <section class="tiles">
+      <article class="">
+        <span class="image">
+          <img src="images/cls/20181109_142646.jpg" alt="" />
+        </span>
+        <a href="">
+          <h2></h2>
+          <div class="content">
+            <p></p>
+          </div>
+        </a>
+      </article>
+      <article class="style7">
+        <span class="image">
+          <img src="images/cls/20190617_185241.jpg" alt="" />
+        </span>
+        <a href="">
+          <h2></h2>
+          <div class="content">
+            <p></p>
+          </div>
+        </a>
+      </article>
+      <article class="style7">
+        <span class="image">
+          <img src="images/cls/20190214_131121.jpg" alt="" />
+        </span>
+        <a href="">
+          <h2></h2>
+          <div class="content">
+            <p></p>
+          </div>
+        </a>
+      </article>
+    </section>
+    <br>
     <center>
       <ul class="actions">
         <li><a href="/Gallery" class="button">View Our Gallery</a></li>
