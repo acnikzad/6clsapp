@@ -110,6 +110,12 @@
         </div>
       </div>
     </section>
+    <hr>
+    <center>
+      <ul class="actions">
+        <li><a href="/Gallery" class="button">View Our Gallery</a></li>
+      </ul>
+    </center>
     </div>
   </div>
 </template>;
