@@ -7,7 +7,7 @@
         <h3>Serving the Sacramento area for over 20 years!</h3>
         <div class="row gtr-200">
           <div class="col-8 col-12-small">
-            <p>Concrete Landscape Services specializes in high quality commercial and residential applications for any need. We are dedicated to providing you with services by friendly trained professionals, who understand the importance of both safety and customer satisfaction. Our broad capabilities and extensive experience in landscaping, irrigation, fencing, drainage and concrete pouring conveniently make us your sole resource for any outdoor application.  </p>
+            <p>Concrete Landscape Services specializes in high quality commercial and residential applications for any need. We are dedicated to providing you with services by friendly trained professionals, who understand the importance of both safety and customer satisfaction. Our broad capabilities and extensive experience in concrete, landscape, irrigation, drainage and fencing conveniently make us your sole resource for any outdoor application.</p>
           </div>
         </div>
       </header>
