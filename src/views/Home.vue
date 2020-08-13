@@ -20,14 +20,18 @@
             <h2>Concrete</h2>
             <div class="content">
               <ul style="text-align:left;">
-                <li>Retaining Walls</li>
-                <li>Patios</li>
-                <li>Walkways</li>
-                <li>Pool Decks</li>
+                <li>Footings/Curbs</li>
                 <li>RV and Parking Pads</li>
+                <li>Walkways</li>
+                <li>Steps</li>
+                <li>Driveways</li>
+                <li>Pool Decks</li>
+                <li>Patios</li>
+                <li>ADA Ramps</li>
+                <li>Retaining Walls</li>
+                <li>Concrete Removal</li>
               </ul>
-              <p><i>And more!</i></p>
-              <!-- <p>Retaining walls, Walkways, Patios, RV pads, Pool Decks</p> -->
+<!--               <p><i>And more!</i></p> -->
             </div>
           </a>
         </article>
@@ -39,13 +43,16 @@
             <h2>Landscape & Irrigation</h2>
             <div class="content">
               <ul style="text-align:left;">
-                <li>Backyards</li>
-                <li>Frontyards</li>
-                <li>Commercial</li>
-                <li>Sod</li>
-                <li>Drainage</li>
+                <li>Creative Design Landscapes</li>
+                <li>New Installation/Reconstruction</li>
+                <li>Grass Installation</li>
+                <li>Artificial Turf Installation</li>
+                <li>Irrigation Systems Installation</li>
+                <li>Irrigation Repair</li>
+                <li>Drainage Installation</li>
+                <li>Clean Up</li>
               </ul>
-              <p><i>And more!</i></p>
+<!--               <p><i>And more!</i></p> -->
             </div>
           </a>
         </article>

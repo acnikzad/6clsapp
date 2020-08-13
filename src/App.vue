@@ -28,7 +28,7 @@
               <ul class="contact-icons">
                 <li>
                   <span class="icon major alt fa-envelope"></span>
-                  <p style="text-align:center;"><a href="">RonDavis@ConcreteLandscapeServices.com</a></p>
+                  <p style="text-align:center;"><a href="mailto: RonDavis@CLSconcrete.com">RonDavis@CLSconcrete.com</a></p>
                 </li>
                 <li>
                   <span class="icon major alt fa-map"></span>
