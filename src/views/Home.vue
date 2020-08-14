@@ -63,7 +63,15 @@
           <a href="/repair">
             <h2>Repair & Restoration</h2>
             <div class="content">
-              <p></p>
+              <ul style="text-align:left;">
+                <li>Concrete</li>
+                <li>Landscapes</li>
+                <li>Drainage</li>
+                <li>Fences</li>
+                <li>Grass</li>
+                <li>Irrigation</li>
+                <li>Retaining walls</li>
+              </ul>
             </div>
           </a>
         </article>

@@ -23,12 +23,13 @@
           <section class="inner">
             <h2 style="text-align:center;">Get in touch</h2>
             <h4 style="text-align:center;">Contact us for a consultation!</h4>
+            <p style="text-align:center;">SB Cert.16405<br />Caltrans Certified  DBE 43013<br /> Dir No. 1000038082</p>
             <br>
             <center>
               <ul class="contact-icons">
                 <li>
                   <span class="icon major alt fa-envelope"></span>
-                  <p style="text-align:center;"><a href="mailto: RonDavis@CLSconcrete.com">RonDavis@CLSconcrete.com</a></p>
+                  <p style="text-align:center;"><a href="mailto: RonDavis@CLSconcrete.com">rondavis@clsconcrete.com</a></p>
                 </li>
                 <li>
                   <span class="icon major alt fa-map"></span>
@@ -37,7 +38,7 @@
                 </li>
                 <li>
                   <span class="icon solid major alt fa-mobile-alt"></span>
-                  <p style="text-align:center;"><a href="#">(916) 688-1550</a></p>
+                  <p style="text-align:center;"><a href="tel:916-688-1550">O. (916) 688-1550</a><br /><a href="tel:916-597-2083">F. (916) 597-2083</a></p>
                 </li>
               </ul>
             </center>
