@@ -41,6 +41,10 @@
                   <p style="text-align:center;"><a href="tel:916-688-1550">O. (916) 688-1550</a><br /><a href="tel:916-597-2083">F. (916) 597-2083</a></p>
                 </li>
               </ul>
+              <div>
+                <img src="../public/images/cls/visa.png" class="cards">
+                <img src="../public/images/cls/mastercard.png" class="cards">
+              </div>
             </center>
           </section>
         </container>

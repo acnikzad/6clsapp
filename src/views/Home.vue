@@ -4,10 +4,13 @@
     <div class="inner">
       <header>
         <h1>Welcome to Concrete Landscape Services!</h1>
-        <h3>Serving the Sacramento area for over 20 years!</h3>
         <div class="row gtr-200">
-          <div class="col-8 col-12-small">
+          <div class="col-6 col-12-small">
+            <h3>Serving the Sacramento area for over 20 years!</h3>
             <p>Concrete Landscape Services specializes in high quality commercial and residential applications for any need. We are dedicated to providing you with services by friendly trained professionals, who understand the importance of both safety and customer satisfaction. Our broad capabilities and extensive experience in concrete, landscape, irrigation, drainage and fencing conveniently make us your sole resource for any outdoor application.</p>
+          </div>
+          <div class="col-6 col-12-small">
+              <img src="images/cls/CLSTruck.jpg" alt="" class="truck" />
           </div>
         </div>
       </header>
@@ -20,14 +23,14 @@
             <h2>Concrete</h2>
             <div class="content">
               <ul style="text-align:left;">
-                <li>Footings/Curbs</li>
+                <li>Driveways</li>
                 <li>RV and Parking Pads</li>
                 <li>Walkways</li>
                 <li>Steps</li>
-                <li>Driveways</li>
                 <li>Pool Decks</li>
                 <li>Patios</li>
                 <li>ADA Ramps</li>
+                <li>Footings/Curbs</li>
                 <li>Retaining Walls</li>
                 <li>Concrete Removal</li>
               </ul>
